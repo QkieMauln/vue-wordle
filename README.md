@@ -4,7 +4,7 @@ Permainan kata (Wordle) yang menggunakan bahasa indonesia
 
 Implementasi Vue dari [Permainan Wordle](https://www.powerlanguage.co.uk/wordle/) tetapi daripada menggunakan bahasa Inggris, saya mengubahnya menjadi bahasa Indonesia. Projek ini hanya untuk bersenang-senang saja dan tidak ada bertujuan untuk meniru 100% aslinya.
 
-Anda dapat membuat Permainan Wordle Anda sendiri dan mengirimkannya ke teman dengan meng-encode kan sebuah kata dengan base64 dan memasukkannya sebagai kueri URL, misalnya. https://wordle.qky.life/?YmxpbXA= (ini juga akan memungkinkan kata-kata yang tidak ada dalam kamus besar bahasa indonesia.)
+Anda dapat membuat Permainan Wordle Anda sendiri dan mengirimkannya ke teman dengan meng-encode kan sebuah kata dengan base64 dan memasukkannya sebagai kueri URL, misalnya. https://wordle-indo.vercel.app/?YmxpbXA= (ini juga akan memungkinkan kata-kata yang tidak ada dalam kamus besar bahasa indonesia.)
 
 ### Cara menjalankan
 
